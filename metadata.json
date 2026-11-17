@@ -1,0 +1,6 @@
+{
+  "name": "Neighborhood Brawlers: Ziyad & Mohamed",
+  "description": "16-bit side-scrolling pixel-art beat 'em up featuring Ziyad and Mohamed across 15 neighborhood stages and 3 boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
